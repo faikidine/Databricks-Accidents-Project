@@ -21,4 +21,4 @@ Parmi les différents modèles testés (`KNN`, `DecisionTreeClassifier`, `Random
 
 Endpoint du Modèle
 
-Le modèle `BestModel` est accessible via une API, permettant ainsi une intégration facile dans des applications ou des services tiers souhaitant utiliser le modèle pour des prédictions en temps réel. Le lien de l'endpoint API est disponible dans [ici](PAS_ENCORE_DE_LIEN_ENDPOINT)
+Le modèle `BestModel` est accessible via une API, permettant ainsi une intégration facile dans des applications ou des services tiers souhaitant utiliser le modèle pour des prédictions en temps réel. Le lien de l'endpoint API est disponible dans [ici](https://adb-1959923359795803.3.azuredatabricks.net/serving-endpoints/AHMEDfi_api/invocations)
